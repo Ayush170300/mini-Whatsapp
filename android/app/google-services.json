@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "475317706822",
+    "firebase_url": "https://mini-whatsapp-68166.firebaseio.com",
+    "project_id": "mini-whatsapp-68166",
+    "storage_bucket": "mini-whatsapp-68166.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475317706822:android:fb936a021f54285f35ea47",
+        "android_client_info": {
+          "package_name": "com.ayush.mini_whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475317706822-7648sce9mrcec5qssc7neqjn2nuf7nub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV4YDpHkriPqD3mndrYi5jREQBmEiEwM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475317706822-7648sce9mrcec5qssc7neqjn2nuf7nub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
